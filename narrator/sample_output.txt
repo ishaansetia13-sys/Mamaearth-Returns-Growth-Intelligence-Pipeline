@@ -1,0 +1,8 @@
+Situation
+The cleaned order data shows revenue of INR 97,358.30. After removing unusual bulk orders, March is the strongest month at INR 20,318.90. This gives us a more useful view of normal sales.
+
+Complication
+COD orders have a 44.4% return rate, compared with 14.7% for card and 18.9% for UPI. The highest-risk group is COD customers in Tier-2 cities, where the return rate is 54.5%. The original revenue of INR 99,860.20 also included five duplicate orders worth INR 2,501.90. January appeared to lead at INR 29,582.10, but falls to INR 11,637.10 without the two bulk orders.
+
+Resolution
+The operations team should review COD orders in Tier-2 cities first and check whether delivery confirmation or customer communication can reduce returns. The finance team should use deduplicated revenue and keep unusual bulk orders separate when comparing monthly performance. These findings show where to investigate; they do not by themselves prove what causes returns.
